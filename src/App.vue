@@ -20,6 +20,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+  background: rgb(9,181,125);
+  background: linear-gradient(132deg, rgba(9,181,125,1) 27%, rgba(41,136,63,0.8295693277310925) 100%);
 }
 #app {
   font-family: Helvetica, Arial, sans-serif;
